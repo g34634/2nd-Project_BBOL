@@ -41,9 +41,9 @@
 
 ### Clone project (https)
 ```powershell
-git clone https://github.com/kinari4041/taste_zip.git
+git clone https://github.com/g34634/2nd-Project_BBOL.git
 ```
 ### Go to project
 ```powershell
-cd taste_zip
+cd 2nd-Project_BBOL
 ```
